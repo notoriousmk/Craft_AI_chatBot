@@ -3,7 +3,7 @@ import { type CoreMessage, streamText } from "ai";
 import { google } from "@ai-sdk/google";
 
 
-export const maxDuration = 3000;
+export const maxDuration = 60;
 
 
 
